@@ -31,7 +31,7 @@ talentscout-hiring-assistant/
 ## Installation Instructions
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PriyankaKumari-123-82/TalentScout.git
    cd talentscout-hiring-assistant
    ```
 
