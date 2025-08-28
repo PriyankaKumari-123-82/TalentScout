@@ -114,7 +114,8 @@ A video walkthrough demonstrating the chatbot's features is available at https:/
 MIT License
 ```
 
-### Setup Instructions
+## **Setup Instructions**
+
 1. **Create the project directory**:
    ```bash
    mkdir talentscout-hiring-assistant
