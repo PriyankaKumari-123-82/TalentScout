@@ -112,7 +112,7 @@ A video walkthrough demonstrating the chatbot's features is available at https:/
 
 ## License
 MIT License
-```
+
 
 ## **Setup Instructions**
 
