@@ -108,7 +108,7 @@ talentscout-hiring-assistant/
 - Enhance UI with custom Streamlit themes and interactive elements.
 
 ## Demo
-A video walkthrough demonstrating the chatbot's features is available at [Loom link or local file]. Alternatively, run the application locally to test the functionality.
+A video walkthrough demonstrating the chatbot's features is available at https://www.loom.com/share/019d46ad506c4d20845b1b414307098c?sid=c5dd09a2-b301-42c1-9369-6070fe575e77 . Alternatively, run the application locally to test the functionality.
 
 ## License
 MIT License
